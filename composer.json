@@ -1,5 +1,5 @@
 {
-    "name": "saddemlabidi/shopfinder-api",
+    "name": "saddemlabidi/module-shopfinder-api",
     "description": "Magento 2 module for shops API (Shopfinder).",
     "require": {
         "magento/framework": "*",
